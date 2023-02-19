@@ -9,3 +9,6 @@ It's optimized with powerful code to remain undetected and its fully customizabl
 
 Current in progress download link: https://gofile.io/d/OAiqj2
 Alternate link: https://cdn.discordapp.com/attachments/1076649883634761731/1076658700548325376/Exxon.exe
+
+
+Small note, This Executer is still in progress, so expect some small bugs. 
