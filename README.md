@@ -12,3 +12,7 @@ Alternate link: https://cdn.discordapp.com/attachments/1076649883634761731/10766
 
 
 Small note, This Executer is still in progress, so expect some small bugs. 
+
+
+NOTE: This is a Roblox executer, So if your computer says "Virus detected" Then just make an exclusion or disable your antivirus. 
+The reason this happens is because our DLL, (The thing that makes our executer able to inject into Roblox) Gets false flagged by windows defender.
