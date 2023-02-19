@@ -16,3 +16,7 @@ Small note, This Executer is still in progress, so expect some small bugs.
 
 NOTE: This is a Roblox executer, So if your computer says "Virus detected" Then just make an exclusion or disable your antivirus. 
 The reason this happens is because our DLL, (The thing that makes our executer able to inject into Roblox) Gets false flagged by windows defender.
+
+
+Need to contact me?
+My discord- Exxon#9999
