@@ -19,5 +19,5 @@ The reason this happens is because our DLL, (The thing that makes our executer a
 
 
 Need to contact me?
-My discord- Exxon#9999
+My discord- Exxon#6999
 Exxon Official server: https://discord.gg/R6xT9aXVSE
